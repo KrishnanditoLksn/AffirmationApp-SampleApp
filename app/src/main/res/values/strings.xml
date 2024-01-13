@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AffirmationApp</string>
+    <string name="affirmation1">I am gentle</string>
+    <string name="affirmation2">Be a warrior !!</string>
+    <string name="affirmation3">Be a warrior !!</string>
+    <string name="affirmation4">Be a warrior !!</string>
+    <string name="affirmation5">Be a warrior !!</string>
+    <string name="affirmation6">Be a warrior !!</string>
+    <string name="affirmation7">Be a warrior !!</string>
+    <string name="affirmation8">Be a warrior !!</string>
+    <string name="affirmation9">Be a warrior !!</string>
+    <string name="affirmation10">Be a warrior !!</string>
+</resources>
